@@ -1,2 +1,2 @@
 # Programming_Lab
-Programlama Laboratuvarı dersi içeriği
+Weekly codes processed in the programming laboratory.
