@@ -43,5 +43,3 @@ def findMaxRangeRecursive(list):
 
     return max_of_three(left_sum, right_sum, center_sum)
 
-list = [4, -3, 5, -2, -1, 2, 6, -2]
-print(findMaxRangeRecursive(list))
