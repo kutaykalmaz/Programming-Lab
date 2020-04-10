@@ -44,7 +44,6 @@ def Mean(inlist):
     count = len(inlist)
     for index in inlist:
         sum += index
-        # count += 1
     mean = sum / count
     return mean
 
